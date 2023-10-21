@@ -1,7 +1,7 @@
-# 👽  CraxsRAT-V6.8
+# 👽  CraxsRAT-V6.7
 ### :warning:Disclaimer : This software is meant for educational purposes only. I'm not responsible for any malicious use of the app.
 
-<img src="https://img.shields.io/badge/Version-6.8-brightgreen?style=for-the-badge" >
+<img src="https://img.shields.io/badge/Version-6.7-brightgreen?style=for-the-badge" >
 
  | Download | 
 | ------------- |
