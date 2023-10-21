@@ -7,7 +7,7 @@
 | ------------- |
 | [Click Here](https://t.me/bestwebz) |
 
-![Screenshot](Screenshot.jpg)
+![Screenshot](craxsrat.png)
 
 ### :accessibility: Requirement
 - Java
